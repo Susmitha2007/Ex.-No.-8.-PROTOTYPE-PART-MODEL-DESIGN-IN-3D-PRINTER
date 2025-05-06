@@ -48,9 +48,11 @@
 
 ## Output:
 
-![Screenshot 2025-05-06 104513](https://github.com/user-attachments/assets/c5cf4afc-4c19-452c-a0e0-2423850e62e5)
+![Screenshot 2025-05-06 114613](https://github.com/user-attachments/assets/72a28b53-2f46-44fc-a91a-950454a644b4)
 
-![Screenshot 2025-05-06 104529](https://github.com/user-attachments/assets/0ef41817-0b5c-4b42-a56b-9eeafbd2c604)
+
+![Screenshot 2025-05-06 114629](https://github.com/user-attachments/assets/b6e42b6b-78ab-43a5-b061-3247e1a8615d)
+
 
 
 ### Name:Nara Guna Susmitha
