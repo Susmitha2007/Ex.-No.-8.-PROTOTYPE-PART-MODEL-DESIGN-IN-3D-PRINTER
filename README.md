@@ -48,10 +48,9 @@
 
 ## Output:
 
-![Screenshot 2025-05-06 114613](https://github.com/user-attachments/assets/72a28b53-2f46-44fc-a91a-950454a644b4)
 
+![Screenshot 2025-05-20 103202](https://github.com/user-attachments/assets/8e224c9a-b494-451d-8a04-f8814d13ca1f)
 
-![Screenshot 2025-05-06 114629](https://github.com/user-attachments/assets/b6e42b6b-78ab-43a5-b061-3247e1a8615d)
 
 
 
